@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "status": "success",
+      "data": {
+        "customers": [
+          {
+            "customer_id": 1,
+            "customer_name": "test"
+          }
+        ]
+      },
+      "message": "1 customer found"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
